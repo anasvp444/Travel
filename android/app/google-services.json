@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151463788921",
+    "firebase_url": "https://travel-97b63.firebaseio.com",
+    "project_id": "travel-97b63",
+    "storage_bucket": "travel-97b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151463788921:android:5946b7104425d2f6",
+        "android_client_info": {
+          "package_name": "com.example.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151463788921-cra947v47pe2l873o4i15dh71775danf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ryWfKRX8MykdMQi_Ye5nnlLbrejo6J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151463788921-cra947v47pe2l873o4i15dh71775danf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151463788921-b895l748ad2sf293tel2d2t8vohge1ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robomy.travel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
